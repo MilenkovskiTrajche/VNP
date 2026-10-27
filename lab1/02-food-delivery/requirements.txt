@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+statsmodels
+seaborn
+matplotlib
+requests
+beautifulsoup4
+lxml
+playwright
+jupyter
+ipykernel
